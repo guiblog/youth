@@ -23,7 +23,7 @@ jobs:
       - name: npm install
         run: |
           npm install
-      - name: '运行 【中青看点】'
+      - name: '运行 【中青看点孟津至】'
         run: |
           node Task/youth.js
         env:
